@@ -35,4 +35,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Build flags
 WITH_GMS := false
-TARGET_INCLUDE_VIPERFX := false
