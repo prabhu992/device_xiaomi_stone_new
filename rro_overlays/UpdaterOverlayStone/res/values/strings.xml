@@ -8,5 +8,5 @@
 
     <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/Prabhu992/OTA/refs/heads/lineage-24.0/Changelogs/stone.txt</string>
 
-    <string name="blocked_update_info_url" translatable="false">https://t.me/team_buildbotchat</string>
+    <string name="blocked_update_info_url" translatable="false">https://t.me/prabhus_builds_discuss</string>
 </resources>
